@@ -1,4 +1,5 @@
 # Iris dataset 3D marbles
+What if every row/flower from the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) was represented as a marble in a physics simulation?
 ![bld](img/blendner_sklearn.png)
 Using [Scikit-Learn](https://scikit-learn.org) with [Blender](https://www.blender.org) to render the iris dataset in 3d and create a physical simulation of a marble machine to classify the dataset.
 ![scene](img/1492.png)
