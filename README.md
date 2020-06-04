@@ -11,7 +11,7 @@ On my mac I found it here:
 cd /Applications/Blender.app/Contents/Resources/2.82/python/bin
 ```
 
-Then to run that specific python binarys' `pip install` with the following.
+Then to run that specific python binarys' `pip install` with the following:
 ```bash
 ./python3.7m -m pip install scikit-learn
 ```
