@@ -3,7 +3,7 @@
 Using [Scikit-Learn](https://scikit-learn.org) with [Blender](https://www.blender.org) to render the iris dataset in 3d and create a physical simulation of a marble machine to classify the dataset.
 ![scene](img/1492.png)
 
-## Installing Scikit-Learn in Blender (or any python library)
+## Installing Scikit-Learn (or any other python library) in Blender
 Blender 2.82 comes with python 3.7 and pip already, so you just have to find Blenders' python binary and run it's pip module.
 
 On my mac I found it here:
