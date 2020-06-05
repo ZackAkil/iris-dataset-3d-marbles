@@ -18,3 +18,6 @@ Then to run that specific python binarys' `pip install` with the following:
 ```
 
 I could also see all of Blenders' installed python packages at: `/Applications/Blender.app/Contents/Resources/2.82/python/lib/python3.7`
+
+## Faster animation rendering using Google Cloud
+Utilising a [virtual workstation](https://console.cloud.google.com/marketplace/details/nvidia/nvidia-quadro-vws-win2019) for a couple of hours; photo realistic rendering can be achived all in the cloud without having to stress out my old laptop.
